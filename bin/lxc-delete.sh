@@ -5,8 +5,8 @@ N=3
 
 if [ "$#" -ne 1 ]; then
   echo $0 pattern
-  echo e.g.: $0 cl-hpseb1
-  echo e.g.: $0 cl-hpsec1
+  echo e.g.: $0 cl-hpelb1
+  echo e.g.: $0 cl-hpelc1
   exit 1
 fi
 
