@@ -4,7 +4,7 @@
 if [ "$#" -ne 2 ]; then
   echo $0 pattern command
   echo e.g.: $0 cl-hpelb1 stop
-  echo e.g.: $0 cl-hpelc1 stop
+  echo e.g.: $0 cl-hpsec1 stop
   exit 1
 fi
 
